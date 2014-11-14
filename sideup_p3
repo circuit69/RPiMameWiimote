@@ -1,0 +1,13 @@
+#buttons
+
+Wiimote.A	= KEY_ENTER
+Wiimote.B	= KEY_P
+Wiimote.Up	= KEY_J
+Wiimote.Down	= KEY_L
+Wiimote.Left	= KEY_K
+Wiimote.Right	= KEY_I
+Wiimote.Minus	= KEY_7
+Wiimote.Plus	= KEY_3
+Wiimote.Home	= KEY_ESC
+Wiimote.1	= KEY_RIGHTCTRL
+Wiimote.2	= KEY_RIGHTSHIFT

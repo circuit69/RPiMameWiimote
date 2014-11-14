@@ -1,0 +1,32 @@
+#buttons
+
+Wiimote.A	= KEY_W
+Wiimote.B	= KEY_P
+Wiimote.Up	= KEY_D
+Wiimote.Down	= KEY_G
+Wiimote.Left	= KEY_F
+Wiimote.Right	= KEY_R
+Wiimote.Minus	= KEY_6
+Wiimote.Plus	= KEY_2
+Wiimote.Home	= KEY_ESC
+Wiimote.1	= KEY_A
+Wiimote.2	= KEY_S
+
+#Nunchuk.C	= BTN_LEFT
+#Nunchuk.Z	= BTN_RIGHT
+
+Classic.Up	= KEY_R
+Classic.Down	= KEY_F
+Classic.Left	= KEY_D
+Classic.Right	= KEY_G
+Classic.Minus	= KEY_6
+Classic.Plus	= KEY_2
+Classic.Home	= KEY_P
+Classic.A	= KEY_S
+Classic.B	= KEY_A
+#Classic.X	= KEY_W
+#Classic.Y	= KEY_Q
+#Classic.ZL	= KEY_ESC
+#Classic.ZR	= KEY_6
+#Classic.L	= KEY_ENTER
+#Classic.R	= KEY_2

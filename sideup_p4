@@ -1,0 +1,13 @@
+#buttons
+
+Wiimote.A	= KEY_KP1
+Wiimote.B	= KEY_P
+Wiimote.Up	= KEY_KP4
+Wiimote.Down	= KEY_KP6
+Wiimote.Left	= KEY_KP2
+Wiimote.Right	= KEY_KP8
+Wiimote.Minus	= KEY_8
+Wiimote.Plus	= KEY_4
+Wiimote.Home	= KEY_ESC
+Wiimote.1	= KEY_KP7
+Wiimote.2	= KEY_KP9
