@@ -1,0 +1,10 @@
+#!/bin/bash
+# Script to start wminput then mame
+echo "Let's Rock!"
+echo "Starting WiiMote Deamon."
+sudo /home/pi/mame/attachwii.sh &
+
+echo "Starting Mame"
+sleep 2
+/usr/local/bin/indiecity/InstalledApps/mame4all_pi/Full/mame
+
